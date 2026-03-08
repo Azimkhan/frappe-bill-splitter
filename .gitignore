@@ -53,3 +53,9 @@ jspm_packages/
 
 # Aider AI Chat
 .aider*
+
+bill_splitter/docs/current
+bill_splitter/public/dist
+bill_splitter/public/frontend
+bill_splitter/www/bill.html
+bill_splitter/www/_bill.html
